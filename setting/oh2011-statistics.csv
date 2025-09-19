@@ -1,0 +1,14 @@
+# https://doi.org/10.1016/j.wocn.2010.11.002
+gender,utterance,onset,vot_mean,vot_sd,f0_mean,f0_sd
+female,isolation,fortis,14,9,246,19
+female,isolation,lenis,58,21,211,19
+female,isolation,aspirated,72,21,255,21
+female,sentence,fortis,14,8,270,20
+female,sentence,lenis,44,21,224,20
+female,sentence,aspirated,52,20,288,25
+male,isolation,fortis,17,9,139,21
+male,isolation,lenis,57,21,120,18
+male,isolation,aspirated,85,20,147,23
+male,sentence,fortis,16,8,151,25
+male,sentence,lenis,49,17,127,22
+male,sentence,aspirated,71,21,162,28
