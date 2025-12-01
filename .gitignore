@@ -1,5 +1,6 @@
 data/nikl/stdict_examples_20251005.csv
 notebooks/get-stdict-examples.ipynb
-notebooks/*.log
+notebooks/hs_err_pid4369.log
+notebooks/hs_err_pid6680.log
 notebooks/19-20251126-nsmc-sentiment-morphemes.ipynb
 notebooks/21-20251203-word2vec.ipynb
