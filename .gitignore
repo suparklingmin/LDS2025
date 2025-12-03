@@ -4,3 +4,15 @@ notebooks/hs_err_pid4369.log
 notebooks/hs_err_pid6680.log
 notebooks/19-20251126-nsmc-sentiment-morphemes.ipynb
 notebooks/21-20251203-word2vec.ipynb
+models/nsmc_fasttext_cbow.model
+models/nsmc_fasttext_cbow.model.wv.vectors_ngrams.npy
+models/nsmc_fasttext_sg.model
+models/nsmc_fasttext_sg.model.wv.vectors_ngrams.npy
+models/nsmc_word2vec_cbow.model
+models/nsmc_word2vec_sg.model
+notebooks/21-20251203-03-word2vec-nsmc-original.ipynb
+notebooks/hs_err_pid89058.log
+notebooks/hs_err_pid2748.log
+notebooks/hs_err_pid23471.log
+notebooks/hs_err_pid24455.log
+notebooks/hs_err_pid63289.log

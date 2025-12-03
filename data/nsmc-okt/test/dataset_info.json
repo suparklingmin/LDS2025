@@ -1,0 +1,63 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "nsmc",
+  "dataset_size": 22921771,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/Blpeng/nsmc@5d5e4a5187d8f54ace4d58e275f9df4cccc3ff59/ratings_train.csv": {
+      "num_bytes": 15744895,
+      "checksum": null
+    },
+    "hf://datasets/Blpeng/nsmc@5d5e4a5187d8f54ace4d58e275f9df4cccc3ff59/ratings_test.csv": {
+      "num_bytes": 5191580,
+      "checksum": null
+    }
+  },
+  "download_size": 20936475,
+  "features": {
+    "id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "document": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "morphs": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 43858246,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 17178289,
+      "num_examples": 150000,
+      "dataset_name": "nsmc"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 5743482,
+      "num_examples": 50000,
+      "dataset_name": "nsmc"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
